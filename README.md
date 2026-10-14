@@ -1,5 +1,6 @@
 # Hands Free
-Hands Free is a BepInEx mod for the steam version of gorilla tag. (SteamVR only!) The mod is meant to let your hands be free while in your steam menu.
+Hands Free is a BepInEx mod for the steam version of gorilla tag. (SteamVR only!) The mod is meant to let your hands be free while in your steam menu.\
+*the mod was originally going to be called Better Steam Menu (why the files have that name)*
 ## Config
 This mod uses BepInEx built in config system.\
 Head to your Gorilla Tag installation folder,\
